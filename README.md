@@ -1,2 +1,2 @@
 # hello-world
-<b>first project</b>
+This is a small change to the readme
